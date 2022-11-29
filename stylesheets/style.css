@@ -39,7 +39,7 @@ html, body, .wrapper {
   min-width: 100%;
   font-size: 16px;
   position: relative;
-  font-family: "Raleway", Arial, sans-serif; }
+  font-family: 'Poppins', sans-serif; }
   @media screen and (max-width: 620px) {
     /* line 114, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
     html, body, .wrapper {
@@ -55,9 +55,9 @@ body {
 */
 /* line 136, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
 h1 {
-  font-weight: 300;
+  font-weight: 600;
   font-size: 3em;
-  font-family: "Lato", Arial, sans-serif; }
+  font-family: 'Poppins', sans-serif; }
   @media screen and (max-width: 620px) {
     /* line 136, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
     h1 {
@@ -67,14 +67,16 @@ h1 {
 h4 {
   font-size: .7em;
   letter-spacing: 2px;
-  font-weight: 700;
+  font-weight: 400;
   text-transform: uppercase; }
 
 /* line 152, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
 p {
   color: #777;
   font-size: 1em;
-  font-family: "Lato", Arial, sans-serif; }
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400; }
+
 
 /*
 	03
@@ -950,7 +952,7 @@ img {
 
 /* line 875, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
 .info-block {
-  background: #333;
+  background: #f25822;
   color: #fff; }
   /* line 878, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
   .info-block h1, .info-block h2, .info-block h3, .info-block h4, .info-block h5, .info-block h6, .info-block p {
@@ -1115,7 +1117,7 @@ img {
         position: relative;
         height: 100%;
         display: inline-block;
-        background: rgba(0, 0, 0, 0.1); }
+        background: rgba(0, 0, 0, 0.3); }
     /* line 1008, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
     .jumbotron .flexslider .flex-direction-nav {
       position: absolute;
