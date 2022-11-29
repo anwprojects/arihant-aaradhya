@@ -65,15 +65,15 @@ h1 {
 
 /* line 145, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
 h4 {
-  font-size: .7em;
+  font-size: .9em;
   letter-spacing: 2px;
-  font-weight: 400;
+  font-weight: 500;
   text-transform: uppercase; }
 
 /* line 152, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
 p {
   color: #777;
-  font-size: 1em;
+  font-size: 0.9em;
   font-family: 'Poppins', sans-serif;
   font-weight: 400; }
 
@@ -176,7 +176,7 @@ p {
   padding: 25px 0 30px; }
   /* line 222, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
   .title-block p {
-    font-size: 1.2em; }
+    font-size: 1em; }
 
 /* line 227, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
 .block {
@@ -696,7 +696,7 @@ section, .top, footer {
   /* line 639, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
   .service .icon {
     margin-bottom: 30px;
-    color: #ccc;
+    color: #f25822;
     font-size: 21px; }
     @media screen and (max-width: 992px) {
       /* line 639, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
