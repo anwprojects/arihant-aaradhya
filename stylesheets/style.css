@@ -789,11 +789,11 @@ section, .top, footer {
 */
 /* line 726, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
 footer {
-  background: #111;
+  background: #fff;
   color: #777; }
   /* line 729, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
   footer h1, footer h2, footer h3, footer h4, footer h5, footer h6, footer a {
-    color: #fff; }
+    color: #333; }
   @media screen and (max-width: 992px) {
     /* line 733, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
     footer h4 {
@@ -1258,13 +1258,48 @@ img {
         text-decoration: none; }
 
     .price {
-      margin: 0 0 1.5em;
-      background-color: #038fb4;
-      width: 230px;
-      padding: 10px;
-      text-align: center;
+      margin: 0px;
+      padding: 0px;
+      list-style-type: none;
+      border: 2px solid #343436;
+      display: inline-block;
+      font-weight: 600;
+      font-size: 1.4em;
     }
-    
+
+    .one {
+      margin-left: 0px;
+      margin-right: 0px;
+      padding: 15px;
+      display: inline-block;
+      background: #f0f1f3;
+      color: #333436;
+    }
+
+    li.one:nth-child(2) {
+    background: blueviolet;
+    background: #f25822;
+    color: #fff;
+  }
+
+span {
+  font-size: .5rem;
+  font-weight: 400;
+}
+
+.white-col {
+  color: #fff;
+}
+
+.info-rera {
+  margin-top: 30px;
+}
+
+.footer-call {
+  font-size: 1em;
+  font-weight: 500;
+}
+
 /*
 	09
 	Portfolio
