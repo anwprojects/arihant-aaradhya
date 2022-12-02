@@ -65,9 +65,9 @@ h1 {
 
 /* line 145, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
 h4 {
-  font-size: 1.2em;
+  font-size: 1em;
   letter-spacing: 2px;
-  font-weight: 500;
+  font-weight: 600;
   text-transform: uppercase; }
 
 /* line 152, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
@@ -280,7 +280,6 @@ section, .top, footer {
         padding: 0 20px !important; } }
   /* line 311, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
   .top .branding {
-/*    width: 40%;*/
     width: 40%;
     float: left;
     text-transform: uppercase;
@@ -1250,7 +1249,7 @@ img {
     @media screen and (max-width: 620px) {
       /* line 1076, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
       .jumbotron .centered {
-        padding: 30px; } }
+        padding: 24px; } }
   /* line 1105, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
   .jumbotron .light {
     background: rgba(255, 255, 255, 0.0) !important;
