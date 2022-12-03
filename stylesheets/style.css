@@ -1204,7 +1204,7 @@ img {
   /* line 1061, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
   .jumbotron p {
     color: #fff;
-    font-weight: 400; }
+    font-weight: 600; }
   /* line 1065, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
   .jumbotron .btn {
     background: transparent;
@@ -1313,7 +1313,7 @@ span {
 
 .white-col {
   color: #fff;
-  line-height: 1.2em;
+  line-height: 1.5em;
 }
 
 .info-rera {
