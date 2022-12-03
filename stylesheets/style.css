@@ -173,7 +173,7 @@ p {
 */
 /* line 220, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
 .title-block {
-  padding: 25px 0 30px; }
+  padding: 25px 0 20px; }
   /* line 222, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
   .title-block p {
     font-size: 1.2em; }
@@ -1313,6 +1313,7 @@ span {
 
 .white-col {
   color: #fff;
+  line-height: 1.2em;
 }
 
 .info-rera {
