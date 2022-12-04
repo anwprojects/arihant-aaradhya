@@ -77,6 +77,18 @@ p {
   font-family: 'Poppins', sans-serif;
   font-weight: 400; }
 
+li {
+  list-style-type: circle;
+/*  font-size: 13px;*/
+}
+
+.connect {
+  font-size: .9em;
+  margin: 0px;
+  padding: 15px;
+  margin-left: -13px;
+}
+
 
 /*
 	03
@@ -702,7 +714,7 @@ section, .top, footer {
   .service .icon {
     margin-bottom: 30px;
     color: #f25822;
-    font-size: 21px; }
+    font-size: 25px; }
     @media screen and (max-width: 992px) {
       /* line 639, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
       .service .icon {
@@ -880,7 +892,7 @@ footer {
   background: #000; }
   /* line 810, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
   .copy .row-fluid {
-    padding: 45px 30px; }
+    padding: 10px; }
     /* line 812, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
     .copy .row-fluid p {
       margin: 0;
@@ -933,7 +945,7 @@ img {
   padding: 0 20px;
   height: 40px;
   line-height: 40px;
-  margin: 34px 0; }
+  margin: 0px 0; }
 
   .btn2 {
   text-transform: uppercase;
@@ -977,9 +989,19 @@ img {
 .info-block {
   background: #f25822;
   color: #fff; }
+
+.info-block-beach {
+  background: #f25822;
+  color: #000;
+  margin: 32px 0; }
+
+
+.info-block-two {
+  background: #f1f1f1;
+  color: #000; }
   /* line 878, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
   .info-block h1, .info-block h2, .info-block h3, .info-block h4, .info-block h5, .info-block h6, .info-block p {
-/*    margin: 15px 0;*/
+    margin: 24px 0;
   }
   /* line 881, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Human/upload/dev-mac/source/stylesheets/style.scss */
   .info-block .btn {
@@ -1098,7 +1120,7 @@ img {
 .icon {
   height: 50px;
   width: 50px;
-  line-height: 50px;
+  line-height: 20px;
   font-size: 42px;
   color: #333;
   text-align: center; }
@@ -1327,6 +1349,11 @@ span {
 
 .call-out {
   color: blue;
+}
+
+.footer-size {
+  font-size: .7em;
+  color: #fff;
 }
 
 /*
